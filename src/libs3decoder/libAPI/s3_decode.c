@@ -400,7 +400,7 @@ s3_decode_hypothesis(s3_decode_t * _decode, char **_uttid, char **_hyp_str,
 
     return rv;
 }
-
+// I just add a line of comments to use web editor for a trial.
 dag_t *
 s3_decode_word_graph(s3_decode_t *_decode)
 {
